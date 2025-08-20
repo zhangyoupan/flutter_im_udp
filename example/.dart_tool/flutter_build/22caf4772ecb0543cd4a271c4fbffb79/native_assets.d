@@ -1,0 +1,1 @@
+ /Volumes/Samsung_T5/probject/flutter_im_udp/example/.dart_tool/flutter_build/22caf4772ecb0543cd4a271c4fbffb79/native_assets.yaml: 

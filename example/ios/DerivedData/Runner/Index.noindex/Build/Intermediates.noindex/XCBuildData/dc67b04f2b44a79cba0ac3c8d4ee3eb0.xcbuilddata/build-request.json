@@ -1,0 +1,62 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42d6d7f003b9ccb190eea787c9369cbe58"
+    }
+  ],
+  "containerPath" : "/Volumes/Samsung_T5/probject/flutter_im_udp/example/ios/Runner.xcworkspace",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos18.2",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64v8",
+        "arm64",
+        "armv8"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Volumes/Samsung_T5/probject/flutter_im_udp/example/ios/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Volumes/Samsung_T5/probject/flutter_im_udp/example/ios/DerivedData/Runner/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Volumes/Samsung_T5/probject/flutter_im_udp/example/ios/DerivedData",
+      "indexDataStoreFolderPath" : "/Volumes/Samsung_T5/probject/flutter_im_udp/example/ios/DerivedData/Runner/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Volumes/Samsung_T5/probject/flutter_im_udp/example/ios/DerivedData/Runner/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Volumes/Samsung_T5/probject/flutter_im_udp/example/ios/DerivedData/Runner/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Volumes/Samsung_T5/probject/flutter_im_udp/example/ios/DerivedData/Runner/Build/Products",
+      "pchPath" : "/Volumes/Samsung_T5/probject/flutter_im_udp/example/ios/DerivedData/Runner/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

@@ -1,0 +1,25 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.zyp.udp.flutter_im_udp" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="21"
+6-->/Volumes/Samsung_T5/probject/flutter_im_udp/android/src/main/AndroidManifest.xml
+7        android:targetSdkVersion="21" />
+7-->/Volumes/Samsung_T5/probject/flutter_im_udp/android/src/main/AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.INTERNET" />
+9-->/Volumes/Samsung_T5/probject/flutter_im_udp/android/src/main/AndroidManifest.xml:3:5-67
+9-->/Volumes/Samsung_T5/probject/flutter_im_udp/android/src/main/AndroidManifest.xml:3:22-64
+10    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+10-->/Volumes/Samsung_T5/probject/flutter_im_udp/android/src/main/AndroidManifest.xml:4:5-79
+10-->/Volumes/Samsung_T5/probject/flutter_im_udp/android/src/main/AndroidManifest.xml:4:22-76
+11    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+11-->/Volumes/Samsung_T5/probject/flutter_im_udp/android/src/main/AndroidManifest.xml:5:5-76
+11-->/Volumes/Samsung_T5/probject/flutter_im_udp/android/src/main/AndroidManifest.xml:5:22-73
+12    <!-- Android 9.0中需要此权限的添加，不然崩溃 -->
+13    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+13-->/Volumes/Samsung_T5/probject/flutter_im_udp/android/src/main/AndroidManifest.xml:7:5-77
+13-->/Volumes/Samsung_T5/probject/flutter_im_udp/android/src/main/AndroidManifest.xml:7:22-74
+14
+15</manifest>

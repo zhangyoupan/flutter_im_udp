@@ -1,0 +1,6 @@
+module flutter_im_udp {
+  umbrella header "flutter_im_udp-umbrella.h"
+
+  export *
+  module * { export * }
+}

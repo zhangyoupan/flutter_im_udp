@@ -1,0 +1,18 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "AAPT_FRIENDLY_MERGED_MANIFESTS",
+    "kind": "Directory"
+  },
+  "applicationId": "com.zyp.udp.flutter_im_udp",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "outputFile": "AndroidManifest.xml"
+    }
+  ],
+  "elementType": "File"
+}

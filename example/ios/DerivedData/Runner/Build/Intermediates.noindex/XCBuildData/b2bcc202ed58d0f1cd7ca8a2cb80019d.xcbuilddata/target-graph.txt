@@ -1,0 +1,14 @@
+Target dependency graph (5 targets)
+Target 'Runner' in project 'Runner'
+➜ Implicit dependency on target 'Pods-Runner' in project 'Pods' via file 'libPods-Runner.a' in build phase 'Link Binary'
+➜ Implicit dependency on target 'flutter_im_udp' in project 'Pods' via options '-lflutter_im_udp' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'integration_test' in project 'Pods' via options '-lintegration_test' in build setting 'OTHER_LDFLAGS'
+Target 'Pods-Runner' in project 'Pods'
+➜ Explicit dependency on target 'Flutter' in project 'Pods'
+➜ Explicit dependency on target 'flutter_im_udp' in project 'Pods'
+➜ Explicit dependency on target 'integration_test' in project 'Pods'
+Target 'integration_test' in project 'Pods'
+➜ Explicit dependency on target 'Flutter' in project 'Pods'
+Target 'flutter_im_udp' in project 'Pods'
+➜ Explicit dependency on target 'Flutter' in project 'Pods'
+Target 'Flutter' in project 'Pods' (no dependencies)
