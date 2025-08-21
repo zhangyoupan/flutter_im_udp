@@ -32,15 +32,15 @@ class _MyAppState extends State<MyApp> {
 
 // 初始化
     var mobileIMSDKResult = await _flutterImUdpPlugin.initMobileIMSDK(
-      serverIP: "test-im.atnhuandian.com",
+      serverIP: "",
       serverPort: 7901,
       isDebug: true,
     );
 
 // 登录
     var mobileIMSDKResult2 = await _flutterImUdpPlugin.login(
-      loginUserId: "OPS:264",
-      token: "Bearer eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIyNjQiLCJzdWIiOiJ6eXAiLCJpYXQiOjE3NTU2NzM3MzYsImlzcyI6InN3YXAiLCJleHAiOjE3NTY5Njk3MzYsImF1dGhvcml0aWVzIjoiW3tcImF1dGhvcml0eVwiOlwiUk9MRV_ov5Dnu7RhcHDotoXnrqHmnYPpmZBcIn1dIn0.VeVtX2DE9hGOolHI2tDspP9Ren6pTnz-LSygjWXDYsM",
+      loginUserId: "",
+      token: "",
     );
 
 // 发送消息
