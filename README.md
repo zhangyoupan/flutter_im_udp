@@ -5,7 +5,6 @@
 已经实现了IOS端、Android端插件
 
 参考：https://github.com/LBXjixiangniao/flutter_MobileIMSDK_UDP
-## Getting Started
 
 
 
